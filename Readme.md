@@ -119,7 +119,7 @@ Example:
 735 kB transferred in 28 seconds ≈ 210 kbps
 
 <p align="center">
-  <img src="output/h2.png" width="45%">
+  <img src="output/h2.png" width="100%">
 </p>
 
 ---
