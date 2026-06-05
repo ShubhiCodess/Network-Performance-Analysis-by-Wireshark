@@ -62,7 +62,7 @@ The captured PCAP files were analyzed using Wireshark and Python to inspect pack
 ## Project Workflow
 
 <p align="center">
-  <img src="project_workflow.png" width="45%">
+  <img src="images/project_workflow.png" width="45%">
 </p>
 
 ---
@@ -79,6 +79,11 @@ Observed:
 * HTTP
 * SSDP
 * ICMPv6
+(attached images for reference)
+<p align="center">
+  <img src="images/1.png" width="100%">
+  <img src="images/2.png" width="100%">
+</p>
 
 ### Conversation Analysis
 
@@ -113,6 +118,10 @@ Example:
 
 735 kB transferred in 28 seconds ≈ 210 kbps
 
+<p align="center">
+  <img src="output/h2.png" width="45%">
+</p>
+
 ---
 
 ## Sample Observations
@@ -128,7 +137,6 @@ Example:
 ## Future Improvements
 
 * Real-time dashboard
-* Multi-PCAP batch analysis
 * Latency estimation
 * Protocol distribution charts
 * Alert generation for retransmission spikes
